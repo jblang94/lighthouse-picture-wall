@@ -1,0 +1,14 @@
+body h1 {
+  color: white;
+  text-align: center;
+  font-size: 3em;
+  font-family: Monaco;
+  text-shadow: 0.3em 0.05em 0.5em #e6c900; }
+
+#team-members .member div.name {
+  text-align: center;
+  color: white;
+  font-family: Monaco;
+  font-size: 1.5em; }
+
+/*# sourceMappingURL=text.css.map */

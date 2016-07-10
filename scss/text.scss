@@ -1,0 +1,19 @@
+$primaryColor: white;
+$primaryFontFamily: Monaco;
+
+body {
+  h1 {
+      color: $primaryColor;
+      text-align: center;
+      font-size: 3em;
+      font-family: $primaryFontFamily;
+      text-shadow: 0.3em 0.05em 0.5em #e6c900
+  }
+}
+
+#team-members .member div.name {
+  text-align: center;  
+  color: $primaryColor;
+  font-family: $primaryFontFamily;
+  font-size: 1.5em;
+}
